@@ -19,3 +19,9 @@ header{
     font-family: Arial, Helvetica, sans-serif
 }
 
+.card-conteiner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
